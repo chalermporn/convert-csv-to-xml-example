@@ -1,6 +1,6 @@
 # Simple CSV to XML Conversion - Python
 # by Chalermporn Posoppitukwong
-# 
+# URL https://github.com/chalermporn/convert-csv-to-xml-example
 
 import csv
 
@@ -23,7 +23,6 @@ with open(csvFile) as csvfile:
 print(dates)
 print(colors)
 print(data)
-
 
 
 # Fuction convert
